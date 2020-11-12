@@ -11,3 +11,9 @@ Sample website with plenty of files for demos
 This is an example
 
 ### How to contribute
+
+This is the way
+
+### Final step
+
+This is the final step
