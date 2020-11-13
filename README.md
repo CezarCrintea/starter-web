@@ -17,3 +17,7 @@ This is the way
 ### Final step
 
 This is the final step
+
+### Copyright
+
+Copyright 2020 Custom Projects
