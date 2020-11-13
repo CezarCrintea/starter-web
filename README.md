@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is a simple project for showing how Git and GitHub work
+Added this line for rebasing example.
 
 ## Purpose
 
