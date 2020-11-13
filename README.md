@@ -12,7 +12,7 @@ This is an example
 
 ### How to contribute
 
-This is the way
+Please fork this repository
 
 ### Final step
 
